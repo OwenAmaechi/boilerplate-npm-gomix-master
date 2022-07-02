@@ -1,7 +1,15 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
-	"author": "Amaechi Chinazo Owen",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Amaechi Chinazo",
+	"description": "A freecodecamp project",
+	"keywords": [
+		"freecodecamp",
+		"node.js",
+		"project",
+		"javascript"
+	],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.1"
 	},
